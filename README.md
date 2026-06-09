@@ -5,7 +5,7 @@ Welcome to my repository for the DecodeLabs Industrial Training program (Batch: 
 ## 📁 Repository Structure
 
 * **[Project 1](./Project%201):** The To-Do List Engine (Backend Data Management terminal program).
-* **[Project 2](./Project%202):** Python Project 2.
+* **[Project 2](./Project%202):** Expense Tracker.
 
 ---
 *Maintained by syedmohammedshahid726*
